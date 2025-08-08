@@ -18,7 +18,7 @@ It has 15 attributes:
 
 
 
-## 1. Libraries used
+ Libraries used
 
 Source code:
 
@@ -32,7 +32,7 @@ import numpy as np
 | pandas | Load, clean, and manipulate tabular data, structuring data |
 | numpy | Perform numerical computations |
 
-### 2. Loading Dataset
+ Loading Dataset
 
 we have used google collab for building this project 
 
@@ -43,7 +43,7 @@ air_quality_df = pd.read_csv('/AirQualityUCI.csv')
 air_quality_df.head()
 ```
 
-### 3. Preprocessing Data
+ Preprocessing Data
 
 This includes structuring of data, removing empty rows and columns 
 
