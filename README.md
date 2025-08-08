@@ -1,4 +1,4 @@
-# Air_Quality_Index
+# Air_Quality_Index using Forecasting
 A project for predicting air quality index over time
 ## Predicting AQI:
 
