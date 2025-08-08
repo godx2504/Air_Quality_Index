@@ -1,5 +1,6 @@
 # Air_Quality_Index using Forecasting
-A project for predicting air quality index over time
+A project for predicting air quality index over time.
+This uses Forecasting and FB Prophet model.
 ## Predicting AQI:
 
 One of the most reliable ways to quantify air pollution is by calculating the **Air Quality Index (AQI)**
